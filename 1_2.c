@@ -1,9 +1,4 @@
-/***********************************************
-Samuel Tracz
-0927451
-CIS 3490 Assignment 1
-February 13, 2017
-**********************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
