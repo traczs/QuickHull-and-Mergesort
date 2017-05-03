@@ -1,10 +1,3 @@
-***********************************************
-Samuel Tracz
-0927451
-CIS 3490 Assignment 2
-February 13, 2017
-**********************************************
-
 *************************
 Compilation
 *************************
@@ -21,10 +14,14 @@ running the program
 ***************************
 Notes
 ***************************
+p11 - brute force mergesort
+p12 - mergesort algorithm
+p21 - brute force quickhull
+p22 - quickhull algorithm
+
 ./p22 does not work. It is in a recursive loop that never ends.
 
 REFERENCES
--course textbook
 -math.uaa.alaska.edu/~afkjm/cs351/handouts/bruteforce for question 2.1
 -en.wikipedia.org/wiki/Quickhull for 2.2
 - www.geeksforgeeks.org/counting-inversions/ for question 1.2
