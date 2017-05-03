@@ -1,0 +1,30 @@
+***********************************************
+Samuel Tracz
+0927451
+CIS 3490 Assignment 2
+February 13, 2017
+**********************************************
+
+*************************
+Compilation
+*************************
+make
+
+*******************************
+running the program
+*****************************
+./p11 fileName.txt
+./p12 filename.txt
+./p21 filename.txt
+./p22 filename.txt
+
+***************************
+Notes
+***************************
+./p22 does not work. It is in a recursive loop that never ends.
+
+REFERENCES
+-course textbook
+-math.uaa.alaska.edu/~afkjm/cs351/handouts/bruteforce for question 2.1
+-en.wikipedia.org/wiki/Quickhull for 2.2
+- www.geeksforgeeks.org/counting-inversions/ for question 1.2
